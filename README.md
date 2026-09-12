@@ -1,6 +1,6 @@
 # vocab-tetris-docs
 
-Official legal and support pages for the **WordTetris** iOS app (`com.garrygu.wordtetris`).
+Official legal and support pages for the **单词方块** iOS app (`com.garrygu.wordtetris`).
 
 ## Privacy Policy URLs
 
